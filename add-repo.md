@@ -1,7 +1,7 @@
 Add A GitHub Repository To Your Local Machine
 =============================================
 
-###In your favorite web browser
+####In your favorite web browser
 1. Go to your profile on github.com
 2. Click on "Repositories"
 3. Click "New" towards the top-right of the screen

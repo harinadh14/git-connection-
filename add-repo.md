@@ -14,6 +14,7 @@ Add A GitHub Repository To Your Local Machine
 1. Click, "Create repository"
 1. Clone your repository to your local machine
     - If you use the GitHub app
+        - Make sure you are logged into your account using GitHub > Preferences, select "Accounts" and then enter your GitHub username and password, then click "Sign In"
         - Click on the "Clone in Desktop" button. It will automatically take you to the GitHub app and ask where you would like the repository cloned to
         - Choose the location and directory name for your local repository and click "Clone"
         - You can now right-click or control-click the name of your repository from the left sidebar and chose "Open in Atom" to quickly get to work
@@ -22,12 +23,13 @@ Add A GitHub Repository To Your Local Machine
 
 
 ####If using the GitHub app
+1. Make sure you are logged into your account using GitHub > Preferences, select "Accounts" and then enter your GitHub username and password, then click "Sign In"
 1. Your local repository should already be created (see above steps)
-2. If you have worked on this project on another computer it is wise to push the "sync" button at the top-right before doing any further work on your current machine
-2. Once your files have been edited you will need to add, commit, and sync those changes. There will be a list of files in the center column that, when highlighted, will show what has been changed in the preview window on the right. Select the files that you would like to add to a commit by checking the checkboxes to the left side of the file name. 
-3. Add a summary and a description for each commit, and then push the "Add to [branch name]" button. 
-4. Once all of your files have been committed, you can sync your repository by clicking the "sync" button at the top-right
-5. Rejoice in all the GitHub simplicity
+1. If you have worked on this project on another computer it is wise to push the "sync" button at the top-right before doing any further work on your current machine
+1. Once your files have been edited you will need to add, commit, and sync those changes. There will be a list of files in the center column that, when highlighted, will show what has been changed in the preview window on the right. Select the files that you would like to add to a commit by checking the checkboxes to the left side of the file name. 
+1. Add a summary and a description for each commit, and then push the "Add to [branch name]" button. 
+1. Once all of your files have been committed, you can sync your repository by clicking the "sync" button at the top-right
+1. Rejoice in all the GitHub simplicity
 
 
 ####If using Terminal

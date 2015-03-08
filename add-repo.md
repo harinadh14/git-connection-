@@ -21,7 +21,7 @@ Add A GitHub Repository To Your Local Machine
         - On this new page (URL should be github.com/username/repo-name) find the SSH clone URL in the right menu and click the "Copy to clipboard" button. If it says "HTTPS clone URL" above the input box, click on the blue "SSH" link below, this will change the clone URL to use SSH instead of HTTPS, and then click on the "Copy to clipboard" button
 
 
-####If Using the GitHub App
+####If using the GitHub app
 1. Your local repository should already be created (see above steps)
 2. If you have worked on this project on another computer it is wise to push the "sync" button at the top-right before doing any further work on your current machine
 2. Once your files have been edited you will need to add, commit, and sync those changes. There will be a list of files in the center column that, when highlighted, will show what has been changed in the preview window on the right. Select the files that you would like to add to a commit by checking the checkboxes to the left side of the file name. 
@@ -30,7 +30,7 @@ Add A GitHub Repository To Your Local Machine
 5. Rejoice in all the GitHub simplicity
 
 
-####If Using Terminal
+####If using Terminal
 1. Move to the parent directory where you would like to clone your new GitHub repository. You will use a "/" to move deeper into your folder structure. If you have spaces in your folder names you will have to put a "\" before them, like so: `cd ~/School/HCC/Spring\ 2015/ART229/Projects`. Note: It's quicker, easier, and less confusing if you can avoid using spaces in your directory names as much as possible (but not always possible)
 1. Clone your GitHub repository to a new directory. There are two main ways to do this:
     - Create the new project repository as you are cloning your repository.

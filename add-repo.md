@@ -17,7 +17,7 @@ Add A GitHub Repository To Your Local Machine
         - Open the GitHub app and make sure you are logged into your account using GitHub > Preferences, select "Accounts" and then enter your GitHub username and password, then click "Sign In"
         - Back in your browser, click on the "Clone in Desktop" button. It will automatically take you to the GitHub app and ask where you would like the repository cloned to
         - Choose the location and directory name for your local repository and click "Clone"
-        - You can now right-click or control-click the name of your repository from the left sidebar and chose "Open in Atom" to quickly get to work
+        - You can now right-click or control-click the name of your repository from the left sidebar and choose "Open in Atom" to quickly get to work
     - If you use terminal
         - On this new page (URL should be github.com/username/repo-name) find the SSH clone URL in the right menu and click the "Copy to clipboard" button. If it says "HTTPS clone URL" above the input box, click on the blue "SSH" link below, this will change the clone URL to use SSH instead of HTTPS, and then click on the "Copy to clipboard" button
 
